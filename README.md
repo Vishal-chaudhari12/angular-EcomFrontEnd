@@ -1,4 +1,4 @@
-Live-Link :ecommerce-app-flax-nu.vercel.app
+Live-Link :https://ecommerce-app-flax-nu.vercel.app/login
 
 
 # AuthApp
